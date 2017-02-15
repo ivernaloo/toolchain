@@ -1,0 +1,22 @@
+{
+  "name": "babel",
+  "version": "1.0.0",
+  "description": "-----\r 这里主要是一个用babel和gulp搭配的实例 2017/2/15",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-env": "^1.1.8",
+    "babel-preset-es2015": "^6.22.0",
+    "gulp": "^3.9.1",
+    "gulp-print": "^2.0.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-webserver": "^0.9.1",
+    "systemjs": "^0.20.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

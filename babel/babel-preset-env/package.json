@@ -1,0 +1,21 @@
+{
+  "name": "babel-preset-env",
+  "version": "1.0.0",
+  "description": "babel需要对应安装很多的插件，用起来太麻烦。用上 babel-preset-env以后就可以解百忧了，啥都可以搞定了。2017/2/15",
+  "main": "timer.js",
+  "dependencies": {
+    "babel-plugin-transform-regenerator": "^6.22.0",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-env": "^1.1.8",
+    "core-js": "^2.4.1"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-stage-0": "^6.22.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
