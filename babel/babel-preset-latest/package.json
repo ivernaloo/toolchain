@@ -1,0 +1,16 @@
+{
+  "name": "babel-preset-env",
+  "version": "1.0.0",
+  "description": "",
+  "main": "timer.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.23.0",
+    "babel-preset-latest": "^6.22.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
