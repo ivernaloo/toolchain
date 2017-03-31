@@ -28,5 +28,5 @@ gulp.task('browser-sync2', function(){
         files: ["src/res/js/*.js","src/*.html"]
     });
 
-    //gulp.watch("**/*").on("change", reload);
+    //gulp.watch("*").on("change", reload);
 });
